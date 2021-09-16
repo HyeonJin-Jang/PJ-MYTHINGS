@@ -1,16 +1,3 @@
-토큰 : `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`
-아톰 : `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`
-
----
-
-
-
-# DONELISTS-ERRORS 
-
-
-
-<br>
-
 
 
 ### Issues와 Projects를 봐주세요. 
@@ -18,8 +5,3 @@
 
 
 
-
-
-`학습 내용 : ` https://github.com/sbsteacher/facebook.git
-<br>
-`프로젝트 내용 : ` https://github.com/WHYGRAM/WHYGRAM.git
